@@ -1,2 +1,2 @@
 # My-portfolio
-I have creates a amazing responsive website using bootstarp
+I have created a amazing responsive website using bootstarp
